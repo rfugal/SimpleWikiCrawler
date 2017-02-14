@@ -1,0 +1,5 @@
+exec(compile(source=open('autocomplete_model.py').read(), filename='autocomplete_model.py', mode='exec'))
+words=["this"]
+(freq,tree,model) = createModel(words)
+import json
+json.dumps(model, sort_keys=true)

@@ -1,0 +1,60 @@
+sqlite> select passages.passage from passages join (select passage_word_model.id, passage_word_model.freq_score from passage_word_model join passage_uniq_words on passage_word_model.id=passage_uniq_words.id where uniq_4=0 and uniq_3<6) as temp on passages.id=temp.id where temp.freq_score>66700;
+People use the word sacred or the word holy for something that is special or important.
+Tax is money that people have to pay to the government.
+A saw is a tool used to cut things.
+In mathematics and statistics, the mean is another name for the average.
+Capacity is the ability to hold something, very similar to volume.
+Orange is a color. It is the combination of red and yellow.
+A solar day is a unit of time. It is a cycle of day and night.
+Name is a word (or a set of words) given to things and people.
+Social capital is the willingness of people to help each other.
+In music the pitch of a note means how high or low a note is.
+Warm is the opposite of cool.
+Union Gap is a city in the state of Washington.
+Bible study is intensive reading of the Bible.
+A category is a group of people or things that are the same in some way.
+A public university is a university that is given money by the public or the government.
+"Tell me what you eat, and I will tell you who you are."
+Orange-red is a color. It is a combination of red and orange.
+A vehicle is a machine to move people and things.
+A fact is a statement that is real or true, or a thing that can be shown to be real or true.
+Poetry is a type of art form and a type of literature.
+A coalition is an alliance, where the members work together.
+A judge is a person who is in control of a court of law.
+Into the Blue is an American action movie made in 2005.
+The past is something that has already happened. If something has not happened yet, it is called the future.
+Orange is a color. It is the combination of red and yellow.
+A vehicle is a machine to move people and things.
+Japanese literature is literature written in the Japanese language.
+Name is a word (or a set of words) given to things and people.
+The word safe has more than one meaning.
+A potential is a likely possibility that something will be able to happen.
+A text box is a box that people type things into the computer.
+Installation means to put a program on a computer so that the computer can run it.
+Tax is money that people have to pay to the government.
+In music the pitch of a note means how high or low a note is.
+People use the word sacred or the word holy for something that is special or important.
+A club can be many things.
+A product is the result of a chemical reaction.
+A basket is a container. It is usually light.
+Tax is money that people have to pay to the government.
+A solar day is a unit of time. It is a cycle of day and night.
+A judge is a person who is in control of a court of law.
+A fact is a statement that is real or true, or a thing that can be shown to be real or true.
+In mathematics and statistics, the mean is another name for the average.
+Central means the center of something.
+Council in general means a body that has the right to give advice or to administer.
+Poetry is a type of art form and a type of literature.
+The term English literature means literature written in the English language.
+A coalition is an alliance, where the members work together.
+A soldier is a person who is a part of an army.
+A judge is a person who is in control of a court of law.
+Tax is money that people have to pay to the government.
+A soldier is a person who is a part of an army.
+Poetry is a type of art form and a type of literature.
+Individual can be an adjective or a noun.
+Feedback is when the effect of a process (or things that come out of it) have a connection to its cause (or things that go in to it).
+The face is a part of the body at the front of the head.
+The human body is the body of a person. It is the physical structure of a person.
+A category is a group of people or things that are the same in some way.
+A vehicle is a machine to move people and things.
